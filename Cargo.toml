@@ -14,4 +14,4 @@ quote = { version = "1.0.26", features = ["proc-macro"] }
 serde = { version = "1.0.160", features = ["derive"] }
 serde_json = "1.0.96"
 syn = "2.0.15"
-solana-sdk = "1.15.2"
+solana-sdk = "2.1.13"
